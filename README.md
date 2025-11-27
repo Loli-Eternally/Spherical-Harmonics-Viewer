@@ -22,8 +22,8 @@
 
 1. 克隆仓库：
 ```bash
-git clone https://github.com/yourusername/SphericalHarmonics.git
-cd SphericalHarmonics
+git clone https://github.com/Loli-Eternally/Spherical-Harmonics-Viewer.git
+cd Spherical-Harmonics-Viewer
 ```
 
 2. 安装依赖：
