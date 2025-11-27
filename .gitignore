@@ -39,6 +39,10 @@ ENV/
 *.jpeg
 *.pdf
 
+# 例外：README 中的示例图片
+!example_Y21.png
+!all_harmonics.png
+
 # 系统文件
 .DS_Store
 Thumbs.db
