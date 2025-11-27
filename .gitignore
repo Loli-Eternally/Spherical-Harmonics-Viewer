@@ -50,5 +50,12 @@ Thumbs.db
 *.log
 *.tmp
 
+# 部署脚本和文档（本地使用，不需要提交到仓库）
+deploy_to_github.bat
+deploy_to_github.sh
+setup_remote.bat
+DEPLOY.md
+fix_git_config.bat
+
 
 
