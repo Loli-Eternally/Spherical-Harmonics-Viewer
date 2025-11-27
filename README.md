@@ -130,34 +130,6 @@ python example_usage.py multiple    # 查看所有低阶球谐函数
 - 颜色映射表示球谐函数的正负值（红色为正，蓝色为负）
 - 自动支持Windows、macOS和Linux的中文字体
 
-## 部署到 GitHub
-
-详细的部署指南请参考 [DEPLOY.md](DEPLOY.md)。
-
-快速部署：
-
-### Windows 用户
-
-双击运行 `deploy_to_github.bat`，按照提示操作即可。
-
-### Linux/macOS 用户
-
-```bash
-chmod +x deploy_to_github.sh
-./deploy_to_github.sh
-```
-
-### 手动部署
-
-```bash
-git init
-git add .
-git commit -m "Initial commit"
-git remote add origin https://github.com/YOUR_USERNAME/SphericalHarmonics.git
-git branch -M main
-git push -u origin main
-```
-
 ## 许可证
 
 本项目采用 MIT 许可证。详情请查看 [LICENSE](LICENSE) 文件。
